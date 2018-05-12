@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38605'
     url: http://www.gutenberg.org/2009/agents/38605
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37035#Journal-of-Dr.-Elias-Cornelius-a-Revolutionary-Surgeon
 gutenberg_issued: '2011-08-11'
 gutenberg_type: Text
 identifiers:
